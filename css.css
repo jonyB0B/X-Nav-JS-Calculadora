@@ -1,0 +1,20 @@
+#sandbox {
+	font-size:16px;
+	border:solid;
+	border-color:#000000;
+	width: 350px;
+	color:red;
+	background-color: white;
+}
+
+#sum{
+	
+	font-size: 30px;
+	
+	color:black;
+}
+
+p{
+	font-size:30px;
+	
+}
